@@ -35,5 +35,5 @@
 
 2. Launch the application:
    ```
-   run program.bat
+   run run_the_program.bat
    ```
