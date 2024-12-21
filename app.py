@@ -22,7 +22,7 @@ class AudioGenerationThread(QThread):
         try:
             # API endpoint and key
             url = "https://api.deepgram.com/v1/speak"
-            api_key = "ADD YOUR OWN API KEY HERE"
+            api_key = "503498cc5ceb6e71bba5767290a8dfaf996dd10d"
             
             headers = {
                 "Authorization": f"Token {api_key}",
