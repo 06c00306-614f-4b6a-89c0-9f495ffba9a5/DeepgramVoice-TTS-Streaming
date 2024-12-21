@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/69e290f2-187f-42aa-9b32-009ead7d39bb)
+
 ## Prerequisites
 
 1. Install Python 3.13.1
